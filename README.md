@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+For more details: [README.md - OmniStack9](https://github.com/Rocketseat/semana-omnistack-9/blob/master/README.md).
 
 ## Available Scripts
 
